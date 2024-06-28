@@ -8,10 +8,8 @@ MED AR is an innovative augmented reality (AR) application designed to revolutio
 - **Augmented Reality Visualization**: Transform static medical diagrams into interactive 3D models.
 - **Immersive Learning Experience**: Enhance learning through immersive AR environments.
 - **AI-Powered Virtual Teacher**: Access a virtual assistant capable of explaining and contextualizing medical concepts.
-- **Interactive Quizzes**: Engage in interactive quizzes to reinforce learning.
 - **Real-time Updates**: Stay updated with the latest advancements in medical science.
 
-## Video Demo
 ## Video Demo
 https://youtu.be/S6zOY0B_BgA
 

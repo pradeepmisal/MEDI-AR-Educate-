@@ -19,6 +19,25 @@ Click the image above to watch a demo video showcasing MED AR in action.
 
 ## Installation
 
-To use MED AR, follow these steps:
+Follow these steps to install and use MED AR:
+
+1. **Download the MED AR Application**: Download the MED AR application from [https://drive.google.com/drive/folders/133V791IhyKdw1_VmW85pOIvpMXZ_t54U).
+   
+2. **Install the Application**:
+   - Navigate to the downloaded file and install the application on your AR-compatible device.
+
+3. **Open the Marker Images**:
+   - Place the marker images in a well-lit area.
+   - Open the MED AR application and point your device camera at one of the marker images.
+
+4. **Activate the AI Virtual Teacher**:
+   - In the MED AR application, locate and click on the virtual teacher icon at the top right corner of the screen.
+   
+5. **Interact with the AI Assistant**:
+   - Hold down the button or say "Hey Medical AI Assistant" to activate the AI assistant.
+   - Ask any medical science-related questions, and the assistant will provide answers and explanations.
+
+For more details and troubleshooting tips, refer to the [documentation](link-to-your-documentation) or contact us at [medar@example.com](mailto:medar@example.com).
+
 
 

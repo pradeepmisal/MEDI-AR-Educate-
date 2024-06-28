@@ -11,7 +11,7 @@ MED AR is an innovative augmented reality (AR) application designed to revolutio
 - **Real-time Updates**: Stay updated with the latest advancements in medical science.
 
 ## Video Demo
-https://youtu.be/S6zOY0B_BgA
+[![Alt text](https://img.youtube.com/vi/G8Ybz08LRoA/0.jpg)](https://youtu.be/G8Ybz08LRoA)
 
 Click the image above to watch a demo video showcasing MED AR in action.
 

@@ -35,7 +35,7 @@ Follow these steps to install and use MED AR:
    - Hold down the button or say "Hey Medical AI Assistant" to activate the AI assistant.
    - Ask any medical science-related questions, and the assistant will provide answers and explanations.
 
-For more details and troubleshooting tips, refer to the [documentation](link-to-your-documentation) or contact us at [Techavinya6@gmail.com]
+For more details and troubleshooting tips, refer to the [documentation](link-to-your-documentation) or contact us at [pradeepmisal698@gmail.com]
 
 
 

@@ -1,5 +1,5 @@
 
-# MED AR - Augmented Reality Application for Medical Education
+# MEDI AR - Augmented Reality Application for Medical Education
 [![Alt text](https://img.youtube.com/vi/S6zOY0B_BgA/0.jpg)](https://youtu.be/S6zOY0B_BgA)
 MED AR is an innovative augmented reality (AR) application designed to revolutionize medical education by providing students with immersive 3D experiences of static medical diagrams. With the integration of AI-powered virtual teaching assistants, MED AR aims to bridge the gap between traditional learning methods and modern technological advancements.
 
@@ -9,8 +9,6 @@ MED AR is an innovative augmented reality (AR) application designed to revolutio
 - **Immersive Learning Experience**: Enhance learning through immersive AR environments.
 - **AI-Powered Virtual Teacher**: Access a virtual assistant capable of explaining and contextualizing medical concepts.
 - **Real-time Updates**: Stay updated with the latest advancements in medical science.
-# MED-AR-Educate
-
 ## Technologies Used
 
 | Technology | Description |

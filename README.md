@@ -20,6 +20,7 @@ MED AR is an innovative augmented reality (AR) application designed to revolutio
 | ![C#](https://img.shields.io/badge/C%23-Scripting-orange?style=flat-square&logo=c-sharp) | For scripting and developing interactive features within Unity. |
 | ![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-yellow?style=flat-square&logo=blender) | For creating and optimizing 3D models. |
 | ![Firebase](https://img.shields.io/badge/Firebase-Backend%20Support-red?style=flat-square&logo=firebase) | For backend support, including data storage and user authentication. |
+| ![AI NLP](https://img.shields.io/badge/AI%20NLP-Text--to--Voice-purple?style=flat-square&logo=ai) | For converting text to voice using natural language processing. |
 
 
 ## Video Demo

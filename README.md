@@ -9,6 +9,18 @@ MED AR is an innovative augmented reality (AR) application designed to revolutio
 - **Immersive Learning Experience**: Enhance learning through immersive AR environments.
 - **AI-Powered Virtual Teacher**: Access a virtual assistant capable of explaining and contextualizing medical concepts.
 - **Real-time Updates**: Stay updated with the latest advancements in medical science.
+# MED-AR-Educate
+
+## Technologies Used
+
+| Technology | Description |
+|------------|-------------|
+| ![Unity](https://img.shields.io/badge/Unity-3D%20Development-blue?style=flat-square&logo=unity) | For developing immersive 3D environments and AR experiences. |
+| ![Vuforia](https://img.shields.io/badge/Vuforia-AR%20Platform-green?style=flat-square&logo=vuforia) | As the AR platform for marker-based tracking and rendering of 3D models. |
+| ![C#](https://img.shields.io/badge/C%23-Scripting-orange?style=flat-square&logo=c-sharp) | For scripting and developing interactive features within Unity. |
+| ![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-yellow?style=flat-square&logo=blender) | For creating and optimizing 3D models. |
+| ![Firebase](https://img.shields.io/badge/Firebase-Backend%20Support-red?style=flat-square&logo=firebase) | For backend support, including data storage and user authentication. |
+
 
 ## Video Demo
 [![Alt text](https://img.youtube.com/vi/G8Ybz08LRoA/0.jpg)](https://youtu.be/G8Ybz08LRoA)
